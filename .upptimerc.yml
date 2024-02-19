@@ -7,13 +7,13 @@ sites:
     url: https://www.lprone.com.ar
   - name: Neo Viewer
     url: http://neoclinica.ddns.net
-  - name: Raspberry
-    check: "tcp-ping"
-    url: 181.31.144.232
-    port: 53
+#  - name: Raspberry
+#    check: "tcp-ping"
+#    url: 181.31.144.232
+#    port: 53
 
-assignees: # Users to assign downtime issues (optional)
-  - lprone
+#assignees: # Users to assign downtime issues (optional)
+#  - lprone
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
