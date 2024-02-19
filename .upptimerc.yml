@@ -12,6 +12,9 @@ sites:
     url: 181.31.144.232
     port: 53
 
+assignees: # Users to assign downtime issues (optional)
+  - lprone
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
