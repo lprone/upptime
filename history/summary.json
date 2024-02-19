@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1108,
-    "timeDay": 979,
-    "timeWeek": 1104,
-    "timeMonth": 1108,
-    "timeYear": 1108,
+    "time": 1127,
+    "timeDay": 1079,
+    "timeWeek": 1126,
+    "timeMonth": 1127,
+    "timeYear": 1127,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 327,
-    "timeWeek": 394,
-    "timeMonth": 385,
-    "timeYear": 385,
+    "time": 386,
+    "timeDay": 351,
+    "timeWeek": 395,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raspberry",
     "status": "down",
-    "uptime": "17.08%",
-    "uptimeDay": "17.08%",
-    "uptimeWeek": "17.08%",
-    "uptimeMonth": "17.08%",
-    "uptimeYear": "17.08%",
+    "uptime": "1.91%",
+    "uptimeDay": "1.91%",
+    "uptimeWeek": "1.91%",
+    "uptimeMonth": "1.91%",
+    "uptimeYear": "1.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-19": 0
+      "2024-02-19": 2
     }
   }
 ]
