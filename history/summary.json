@@ -22,19 +22,19 @@
     "url": "http://neoclinica.ddns.net",
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-viewer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 335,
-    "timeWeek": 356,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 402,
+    "timeDay": 660,
+    "timeWeek": 404,
+    "timeMonth": 402,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-02-25": 0
+      "2024-02-25": 22
     }
   }
 ]
