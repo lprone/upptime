@@ -4,7 +4,7 @@
     "url": "https://www.lprone.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.lprone.com.ar.ico",
     "slug": "lprone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,9 +13,11 @@
     "time": 1107,
     "timeDay": 1485,
     "timeWeek": 1072,
-    "timeMonth": 1079,
+    "timeMonth": 1083,
     "timeYear": 1107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-22": 0
+    }
   },
   {
     "name": "Neo Viewer",
