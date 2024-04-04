@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lprone.com.ar.ico",
     "slug": "lprone",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1130,
-    "timeDay": 1193,
-    "timeWeek": 1209,
-    "timeMonth": 1153,
-    "timeYear": 1130,
-    "dailyMinutesDown": {
-      "2024-04-03": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1129,
+    "timeDay": 1231,
+    "timeWeek": 1164,
+    "timeMonth": 1143,
+    "timeYear": 1129,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Neo Viewer",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 846,
-    "timeDay": 767,
-    "timeWeek": 895,
-    "timeMonth": 1153,
-    "timeYear": 846,
+    "time": 845,
+    "timeDay": 766,
+    "timeWeek": 870,
+    "timeMonth": 1146,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2024-02-25": 22
     }
