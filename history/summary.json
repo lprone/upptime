@@ -4,10 +4,10 @@
     "url": "https://www.lprone.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.lprone.com.ar.ico",
     "slug": "lprone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1129,
@@ -15,14 +15,16 @@
     "timeWeek": 1184,
     "timeMonth": 1148,
     "timeYear": 1129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-05": 1
+    }
   },
   {
     "name": "Neo Viewer",
     "url": "http://neoclinica.ddns.net",
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-viewer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 1149,
     "timeYear": 845,
     "dailyMinutesDown": {
+      "2024-04-05": 0,
       "2024-02-25": 22
     }
   }
