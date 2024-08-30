@@ -26,7 +26,7 @@
     "url": "http://neoclinica.ddns.net",
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-viewer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +38,7 @@
     "timeMonth": 841,
     "timeYear": 1033,
     "dailyMinutesDown": {
+      "2024-08-30": 0,
       "2024-08-08": 17,
       "2024-06-02": 24,
       "2024-05-20": 111,
