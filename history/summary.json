@@ -4,7 +4,7 @@
     "url": "https://www.lprone.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.lprone.com.ar.ico",
     "slug": "lprone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1042,
     "timeYear": 1053,
     "dailyMinutesDown": {
+      "2025-03-03": 0,
       "2024-06-20": 29,
       "2024-04-10": 27,
       "2024-04-09": 5
