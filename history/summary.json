@@ -4,15 +4,15 @@
     "url": "https://www.lprone.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.lprone.com.ar.ico",
     "slug": "lprone",
-    "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "72.47%",
-    "uptimeWeek": "43.93%",
-    "uptimeMonth": "82.14%",
-    "uptimeYear": "98.51%",
-    "time": 783,
-    "timeDay": 514,
-    "timeWeek": 516,
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "72.46%",
+    "uptimeWeek": "44.02%",
+    "uptimeMonth": "82.42%",
+    "uptimeYear": "98.53%",
+    "time": 782,
+    "timeDay": 509,
+    "timeWeek": 515,
     "timeMonth": 531,
     "timeYear": 749,
     "dailyMinutesDown": {
@@ -25,7 +25,7 @@
       "2025-03-30": 1271,
       "2025-03-29": 1247,
       "2025-03-28": 1285,
-      "2025-03-27": 189
+      "2025-03-27": 66
     }
   },
   {
