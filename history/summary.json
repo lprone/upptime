@@ -12,7 +12,7 @@
     "uptimeYear": "17.74%",
     "time": 476,
     "timeDay": 684,
-    "timeWeek": 740,
+    "timeWeek": 743,
     "timeMonth": 899,
     "timeYear": 430,
     "dailyMinutesDown": {
@@ -341,7 +341,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-viewer",
     "status": "down",
-    "uptime": "62.91%",
+    "uptime": "62.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -353,7 +353,7 @@
     "timeYear": 871,
     "dailyMinutesDown": {
       "2025-06-11": 1252,
-      "2026-06-10": 94,
+      "2026-06-10": 261,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
