@@ -4,17 +4,17 @@
     "url": "https://www.lprone.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.lprone.com.ar.ico",
     "slug": "lprone",
-    "status": "down",
+    "status": "up",
     "uptime": "64.70%",
-    "uptimeDay": "87.04%",
-    "uptimeWeek": "95.76%",
-    "uptimeMonth": "92.02%",
+    "uptimeDay": "86.53%",
+    "uptimeWeek": "95.69%",
+    "uptimeMonth": "92.01%",
     "uptimeYear": "17.13%",
-    "time": 506,
-    "timeDay": 641,
-    "timeWeek": 823,
+    "time": 507,
+    "timeDay": 646,
+    "timeWeek": 794,
     "timeMonth": 744,
-    "timeYear": 453,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2025-07-11": 442,
       "2026-05-06": 148,
@@ -347,7 +347,7 @@
       "2026-06-30": 140,
       "2026-07-02": 101,
       "2026-07-03": 186,
-      "2026-07-04": 0
+      "2026-07-04": 8
     }
   },
   {
@@ -356,7 +356,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/neoclinica.ddns.net.ico",
     "slug": "neo-viewer",
     "status": "down",
-    "uptime": "61.19%",
+    "uptime": "61.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -367,7 +367,7 @@
     "timeMonth": 0,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2026-07-04": 10,
+      "2026-07-04": 18,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
